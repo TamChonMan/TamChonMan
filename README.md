@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TamChonMan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning in NTU university
 - 📫 How to reach me: tamchonman1998@gmail.com
 
 <!---
