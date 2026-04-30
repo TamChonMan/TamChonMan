@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TamChonMan
-- 👀 I’m interested in coding
 - 📫 How to reach me: tamchonman1998@gmail.com
 
 <!---
